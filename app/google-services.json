@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893730071025",
+    "project_id": "workout-app-f8af8",
+    "storage_bucket": "workout-app-f8af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893730071025:android:107d474f61a62f1a66a450",
+        "android_client_info": {
+          "package_name": "com.example.fitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893730071025-ir2npehdbjqck3q83s48guap30epsqda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitz",
+            "certificate_hash": "5fc4bc8cb099600fcdbd6429202f796563bf407d"
+          }
+        },
+        {
+          "client_id": "893730071025-n5qgmrlgqe46u3ffvru2uk00eqes103e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXS3McmdQo_fUTkZe19ck75XyoM17Q0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893730071025-n5qgmrlgqe46u3ffvru2uk00eqes103e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
